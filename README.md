@@ -3,9 +3,9 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Screenshot
-![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/Welcome.png')
-![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/Login.png')
-![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/HOME.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/31e0c43caee6353efc3b89a39df0d207ead777b6/assets/screens/Welcome.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/31e0c43caee6353efc3b89a39df0d207ead777b6/assets/screens/Login.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/31e0c43caee6353efc3b89a39df0d207ead777b6/assets/screens/HOME.png')
 ![Screenshot](https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/STATION%20DETAILS.png)
 
 
