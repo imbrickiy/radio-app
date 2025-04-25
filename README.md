@@ -3,10 +3,10 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Screenshot
-![Screenshot]('assets/screens/Welcome.png')
-![Screenshot]('assets/screens/Login.png')
-![Screenshot]('assets/screens/HOME.png')
-![Screenshot]('assets/screens/STATION DETAILS.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/Welcome.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/Login.png')
+![Screenshot]('https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/HOME.png')
+![Screenshot](https://github.com/imbrickiy/radio-app/blob/345c148ffc01b95ab5419c6594f4d2b972a9b29e/assets/screens/STATION%20DETAILS.png)
 
 
 ## Get started
