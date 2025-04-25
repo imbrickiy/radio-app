@@ -3,10 +3,10 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Screenshot
-![Screenshot]('../radio-app/assets/screens/Welcome.png')
-![Screenshot]('../radio-app/assets/screens/Login.png')
-![Screenshot]('../radio-app/assets/screens/HOME.png')
-![Screenshot]('../radio-app/assets/screens/STATION DETAILS.png')
+![Screenshot]('assets/screens/Welcome.png')
+![Screenshot]('assets/screens/Login.png')
+![Screenshot]('assets/screens/HOME.png')
+![Screenshot]('assets/screens/STATION DETAILS.png')
 
 
 ## Get started
